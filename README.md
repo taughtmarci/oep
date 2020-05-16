@@ -1,2 +1,2 @@
 # oop
-Az Eötvös Loránd Tudományegyetem Informatikai Karának Programtervező Informatikus alapszakán belüli Objektumorientált Programozás tárgy összes általam készített anyaga
+Az ELTE IK programtervező informatikus alapszakon tanult obektumelvű programozás tárgyához készült összes programkód C++ nyelven
